@@ -1,2 +1,1 @@
-# Herusyahputra.Github.io
-web pages
+# Herusyahputra.GitHub.io
